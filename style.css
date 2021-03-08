@@ -1,0 +1,62 @@
+h{
+  text-align:center;
+  padding-left:1000px;
+}
+#one{
+  border-radius:125px;
+  width:250px;
+  
+  
+}
+body{
+  text-align:center;
+  background: linear-gradient ( #E67F0D 0%,#0A2463 100%);
+  background-repeat:no-repeat;
+  
+}
+.line{
+  width:60%;
+  color:black;
+  
+}
+#soc{
+  font-size:30px;
+  font-family:Edwardian Script ITC;
+}
+.menu{
+    list-style: none;
+    cursor: pointer;
+    float: right;
+    top: 10px;
+    right: 30px;
+    font-family: cursive;
+    color: darkorange;
+    position: absolute;
+    z-index: 100;
+}
+.links{
+    float: left;
+    color: darkorange;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: cursive;
+    font-size: 20px;
+}
+#first{
+    position: absolute;
+    overflow: hidden;
+    background:linear-gradient(#00008b 0%,#ff8c00 100%);
+    width: 100%;
+   } 
+#sec{
+    position: absolute;
+    overflow: hidden;
+    background:linear-gradient(#90ee90 0%,#E10600 100%);
+    width: 100%;
+}
+#mw{
+    font-family: French Script MT;
+    font-size: 30px;
+}   
